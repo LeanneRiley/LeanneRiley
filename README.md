@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I am Leanne! 
 
-<!--
-**LeanneRiley/LeanneRiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+leanne_riley = {
+  'name': 'Leanne Riley',
+  'location': 'London, UK',
+  'computer_languages': ['Learning Python']
+  'human_languages': ['English', 'Learning 日本語']
+  'interests': ['Music', 'Programming', 'Reading', 'Guitar/Piano']
+  'pets': '1 cat'
+}
+```
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a career change :)
+- 🌱 I’m currently learning the guitar and python!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
